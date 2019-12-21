@@ -1,0 +1,23 @@
+<school>
+    <student age="20">
+        <name>Adam</name>
+        <phone>137603584</phone>
+        <education>senior high school</education>
+        <height>175</height>
+        <tuition>3830</tuition>
+    </student>
+    <student age="21">
+        <name>Alexander</name>
+        <phone>137603581</phone>
+        <education>senior high school</education>
+        <height>174</height>
+        <tuition>3500</tuition>
+    </student>
+    <student age="22">
+        <name>Andy</name>
+        <phone>137603589</phone>
+        <education>senior high school</education>
+        <height>178</height>
+        <tuition>3560</tuition>
+    </student>
+</school>
